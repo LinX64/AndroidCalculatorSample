@@ -1,4 +1,4 @@
-# Android Calculator Sample
+# Android Sample Calculator
 
 Simple Android Calculator with `TextInputLayout` and Error handling
 
